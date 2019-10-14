@@ -1,0 +1,8 @@
+{
+  "url": "url to be added",
+  "user": {
+      "name": "username",
+      "password": "password"
+  },
+  "auth_url": "url to get access token"
+}
